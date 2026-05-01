@@ -35,7 +35,7 @@ namespace ShadingThePhantom
         public Form1()
         {
             SetupUI();
-            this.Text          = "Shading the Phantom  |  Forensic Dual-Layer Steganography";
+            this.Text          = "Hide&Seek   |   Shading the Phantom";
             this.MinimumSize   = new Size(660, 700);
             this.Size          = new Size(800, 860);
             this.StartPosition = FormStartPosition.CenterScreen;
