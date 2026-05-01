@@ -1,5 +1,9 @@
 # Hide&Seek: Shading the Phantom
 
+## Installing
+Application can be installed via this link
+https://ufar2020-my.sharepoint.com/:f:/g/personal/i24_ghazaryan_vera_etud_ufar_am/IgDaJvFMkh9QQotVnn-_RBHCAVLw5ArSLTi7MY7Rlhw_7PU?e=y8rHm9
+
 ## Overview
 Hide&Seek: Shading the Phantom is a steganography application developed in C# using Windows Forms. The purpose of the project is to securely hide secret messages inside image files by combining compression, encryption, and data hiding techniques.
 
